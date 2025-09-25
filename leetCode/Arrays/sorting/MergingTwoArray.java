@@ -1,5 +1,5 @@
 
-
+//merge two array
 class MergingTwoArray{
     
      static int[] Merge(int a[], int b[], int m, int n){
