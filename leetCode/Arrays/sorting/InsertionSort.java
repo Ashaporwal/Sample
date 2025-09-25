@@ -19,3 +19,5 @@ public class InsertionSort {
         }
     }
 }
+
+//Time COmplexity is o(n^2)
